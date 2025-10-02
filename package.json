@@ -2,7 +2,7 @@
     "name": "learnreact",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://AleenaTho.github.io/quote",
+    "homepage": "https://AleenaTho.github.io/reactt",
     "type": "module",
     "scripts": {
         "dev": "vite",
@@ -13,6 +13,7 @@
         "deploy": "gh-pages -d dist"
     },
     "dependencies": {
+        "firebase": "^12.3.0",
         "react": "^19.1.1",
         "react-dom": "^19.1.1",
         "react-router-dom": "^7.9.3"
