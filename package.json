@@ -2,7 +2,7 @@
     "name": "learnreact",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://AleenaTho.github.io/reactt",
+    "homepage": "https://AleenaThomas08.github.io/react",
     "type": "module",
     "scripts": {
         "dev": "vite",

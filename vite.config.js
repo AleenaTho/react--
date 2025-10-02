@@ -10,6 +10,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
     // ❌ Error was here: bas: '/$repoName}/'
     // ✅ Fix: Use 'base' and the correct template literal syntax
-    base: "/react--",
+    base: "/react",
     plugins: [react()],
 })
